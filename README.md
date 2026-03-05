@@ -40,11 +40,3 @@ python main.py
 2. Choose a playlist from your Spotify account that you want to download, then click on the "Download" button.
 3. The app will search for the songs on YouTube and download them to the selected folder.
 4. The songs will be saved in an MP3 format.
-
-## Contributing
-
-If you want to contribute to this project, feel free to submit a pull request. Any kind of contribution is welcome.
-
-## Troubleshooting
-
-If you encounter any problems with this application, please feel free to open an issue on the Github page so that the maintainers can assist you.
