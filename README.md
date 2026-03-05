@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 CLIENT_ID=<YOUR_CLIENT_ID>
 CLIENT_SECRET=<YOUR_CLIENT_SECRET>
-REDIRECT_URL=<YOUR_REDIRECT_URL> (127.0.0.1)
+REDIRECT_URL=http://127.0.0.1:8888/callback
 ```
 
 4. Run the app
